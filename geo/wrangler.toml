@@ -1,0 +1,4 @@
+name = "geo"
+account_id = "24e8ea041ec13304e4585bd22a091a72"
+workers_dev = true
+compatibility_date = "2023-02-13"
